@@ -200,3 +200,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
+
+.accordion-item {
+  background-color: #e9e5dc;
+}
