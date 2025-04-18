@@ -17,7 +17,7 @@ function App() {
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
-~~
+
   //Product ID
   let ProductId = "4334980366413";
 
