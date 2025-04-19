@@ -201,6 +201,7 @@ body {
 }
 /*# sourceMappingURL=main.css.map */
 
-.accordion-body {
+.accordion-body,
+.accordion-item {
   background-color: #e9e5dc;
 }
