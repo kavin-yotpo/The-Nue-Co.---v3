@@ -44,11 +44,6 @@ function Widget(props) {
         >
           <div className="accordion-body">
             <div
-              class="yotpo-widget-instance"
-              data-yotpo-instance-id="1087182 "
-              data-yotpo-product-id="36993571"
-            ></div>
-            <div
               className="yotpo-widget-instance"
               data-yotpo-instance-id={instanceid}
               data-yotpo-product-id={productid}
